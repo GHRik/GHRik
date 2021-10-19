@@ -28,3 +28,6 @@ I am a Master of ICT and in near future i am going try my self with doing Ph.D :
 
 ### What am i looking for:
 - People to work with about ML, AI, vision etc. etc. etc. or... some fantasy people who like to go out for a beer :beers:
+- and play billard:8ball:
+- and wanna go siling:sailboat:</br>
+if you one of them please write to me :partying_face:
