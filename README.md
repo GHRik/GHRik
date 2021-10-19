@@ -11,7 +11,7 @@ I am a Master of ICT and in near future i am going try my self with doing Ph.D :
 
 ### currently gaining knowledge:
  - [C++](https://github.com/GHRik/CXX-exercises) - check my repo to see how i am learn c++ :star_struck:
- - OpenCV(...) - in this repo i will commit some easy project using openCV
+ - [OpenCV](https://github.com/GHRik/openCV-exercises) - in this repo i will commit some easy project using openCV
  - DeepLearning(...) in this repo i will start my journey of deep learning!
  
 ### If i have free time:
