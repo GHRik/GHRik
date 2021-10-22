@@ -23,7 +23,7 @@ I am a Master of ICT and in near future i am going try my self with doing Ph.D :
 
 ### What have i done:
 - [SjpAPI](https://github.com/GHRik/SjpAPI) - My own API to get "words" from [sjp.pl](www.sjp.pl)(Dictionary of polish:poland:)
-- [Distributed facerecognition using k8s](https://github.com/GHRik/Distributed-k8s-face-recognition) - My Master diploma :nerd_face:
+- [Distributed face recognition using k8s](https://github.com/GHRik/Distributed-k8s-face-recognition) - My Master diploma :nerd_face:
 - [Parking Sensor](https://github.com/GHRik/Parking-Sensor-DIY) - My DIY project to improve my electric,raspberry pi knowledge
 
 ### What am i looking for:
