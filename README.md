@@ -17,7 +17,7 @@ I am a Master of ICT and in near future i am going try my self with doing Ph.D :
 ### If i have free time:
 - [ScrabbleHelper](https://github.com/GHRik/PomocnaLiterka) - My own android app:iphone: to menage your scrabble game. Check it out! :heart_eyes:
 
-### Actually working on:
+### Actually working as:
 - Openstack Software Developer in Tieto(Szczecin)
 - Try to change project on C++ :smirk:
 
