@@ -12,7 +12,7 @@ I am a Master of ICT and in near future i am going try my self with doing Ph.D :
 ### currently gaining knowledge:
  - [C++](https://github.com/GHRik/CXX-exercises) - check my repo to see how i am learn c++ :star_struck:
  - [OpenCV](https://github.com/GHRik/openCV-exercises) - in this repo i will commit some easy project using openCV
- - [DeepLearning](https://github.com/GHRik/Deeplearning-exercise) in this repo i will start my journey of deep learning!
+ - [DeepLearning[WIP]](https://github.com/GHRik/Deeplearning-exercise) in this repo i will start my journey of deep learning!
  
 ### If i have free time:
 - [ScrabbleHelper](https://github.com/GHRik/PomocnaLiterka) - My own android app:iphone: to menage your scrabble game. Check it out! :heart_eyes:
