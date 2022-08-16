@@ -2,7 +2,7 @@
 ### I am glad to see you here! :grin:
 
 Name: Damian</br>
-Age: 26</br>
+Age: 27</br>
 City: Szczecin, Poland</br>
 Gender: Male</br>
 Contact: damian.panasiuk2609@gmail.com</br>
@@ -18,7 +18,7 @@ I am a Master of ICT and in near future i am going try my self with doing Ph.D :
 - [ScrabbleHelper](https://github.com/GHRik/PomocnaLiterka) - My own android app:iphone: to menage your scrabble game. Check it out! :heart_eyes:
 
 ### Actually working as:
-- Openstack Software Developer in TietoEvry(Localization: Szczecin)
+- C++ Software Developer, Nokia(Localization: Remote)
 
 ### Completed projects:
 - [SjpAPI](https://github.com/GHRik/SjpAPI) - My own API to get "words" from [sjp.pl](www.sjp.pl)(Dictionary of polish:poland:)
