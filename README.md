@@ -15,7 +15,7 @@ I am a Master of ICT and in near future i am going try my self with doing Ph.D :
  - [DeepLearning](https://github.com/GHRik/Deeplearning-exercise) - in this repository i will start my journey of deep learning!
  
 ### If i have free time:
-- [ScrabbleHelper](https://github.com/GHRik/PomocnaLiterka) - My own android app:iphone: to menage your scrabble game. Check it out! :heart_eyes:
+- [ScrabbleHelper](https://github.com/GHRik/PomocnaLiterka) - My own android app:iphone: to menage your scrabble game. [Check it out!](https://play.google.com/store/apps/details?id=com.panasiuk.PomocnaLiterka) :heart_eyes:
 
 ### Actually working as:
 - C++ Software Developer, Nokia(Localization: Remote)
