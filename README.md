@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am glad to see you here! :grin:
 
-https://www.linkedin.com/in/panasiuk-damian/
+https://www.linkedin.com/in/panasiuk-damian/</br>
 Name: Damian</br>
 Age: 30</br>
 City: Szczecin, Poland</br>
