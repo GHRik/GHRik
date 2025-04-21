@@ -1,13 +1,14 @@
 ### Hi there 👋
 ### I am glad to see you here! :grin:
 
+https://www.linkedin.com/in/panasiuk-damian/
 Name: Damian</br>
-Age: 27</br>
+Age: 30</br>
 City: Szczecin, Poland</br>
 Gender: Male</br>
 Contact: damian.panasiuk2609@gmail.com</br>
 
-I am a Master of ICT and in near future i am going try my self with doing Ph.D :wink: 
+I am a Master of ICT and i am going try my self with doing Ph.D :wink: 
 
 ### Actually working as:
 - C++ Software Developer, Nokia(Localization: Remote)
@@ -29,9 +30,3 @@ I am a Master of ICT and in near future i am going try my self with doing Ph.D :
 
 ### What am i looking for:
 - I am open for remote working 
-- People to work with about ML, AI, vision etc. 
-some fantasy people who like to go out for a beer :beers:<br />
-and play billard:8ball:<br />
-and wanna go siling:sailboat:</br>
-
-if you one of them write to me :partying_face:
