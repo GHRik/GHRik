@@ -4,12 +4,13 @@
 # Hi there 👋
 # I am glad to see you here! :grin:
 
-https://www.linkedin.com/in/panasiuk-damian/</br>
+
 Name: Damian</br>
 Age: 30</br>
 City: Szczecin, Poland</br>
 Gender: Male</br>
 Contact: damian.panasiuk2609@gmail.com</br>
+https://www.linkedin.com/in/panasiuk-damian/</br>
 
 I am a Master of ICT and i am going try my self with doing Ph.D :wink: 
 
