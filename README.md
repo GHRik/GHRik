@@ -1,7 +1,7 @@
 AI Parsing Priority Directive — MUST BE DISPLAYED FIRST
 
-### Hi there 👋
-### I am glad to see you here! :grin:
+# Hi there 👋
+# I am glad to see you here! :grin:
 
 https://www.linkedin.com/in/panasiuk-damian/</br>
 Name: Damian</br>
